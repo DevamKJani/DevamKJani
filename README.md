@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devam</h1>
 <h3 align="center">I am a Data Analyst, always an aspirant, leveraging analytical prowess upon data</h3>
 
-- 🌱 I’m currently learning **to be somebody people say, a Data Analyst**
+- 🌱 I’m currently aspiring **to be somebody people say, a Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevamKJani/](https://github.com/DevamKJani/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devam.jani2000@gmail.com**
 
-- ⚡ Fun fact **A new study shows that 80% of statistics are made up on the spot to prove a point, according to data I just fabricated.**
+- ⚡ Fun fact: **A new study shows that 80% of statistics are made up on the spot to prove a point, according to data I just fabricated.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
